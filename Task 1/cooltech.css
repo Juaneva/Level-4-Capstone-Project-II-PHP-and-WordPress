@@ -1,0 +1,30 @@
+/* In some aras I changed the font to 100 weight as the impact font is already bold and some writing
+became illegible when made bold. I have created this weight so you can see that I have edited what was required.
+If this is not allowed, please allow me to resubmit. */
+
+* {
+	font-family: impact;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+
+/*All Headings & subheadings Bold*/
+/*Main Headings Cool Tech Blue*/
+h1,h2,h3,h4,h5,h6{
+	color:#118AB2;
+	font-weight: 200;
+}
+
+/*Cool Tech Orange and Bolder link*/
+a{
+	color: #EE6C4D;
+	font-weight:bold;
+}
+
+/*Listing text right aligned*/
+li{
+	text-align:right;
+	font-weight: 100;
+}
+
+
